@@ -1,8 +1,11 @@
 cmake_minimum_required(VERSION 2.8.3)
 project(reference_saver)
 
+
 ## Compile as C++11, supported in ROS Kinetic and newer
-# add_compile_options(-std=c++11)
+add_compile_options(-std=c++11)
+
+set(CMAKE_MODULE_PATH ${PROJECT_SOURCE_DIR})
 
 ## Find catkin macros and libraries
 ## if COMPONENTS list like find_package(catkin REQUIRED COMPONENTS xyz)
@@ -12,6 +15,8 @@ find_package(catkin REQUIRED COMPONENTS
   rospy
   std_msgs
   tf
+  geometry_msgs
+  std_srvs
 )
 
 ## System dependencies are found with CMake's conventions
@@ -69,10 +74,13 @@ find_package(catkin REQUIRED COMPONENTS
 # )
 
 ## Generate added messages and services with any dependencies listed here
-# generate_messages(
-#   DEPENDENCIES
-#   std_msgs
-# )
+generate_messages(
+   DEPENDENCIES
+   std_msgs
+   geometry_msgs
+   tf
+   std_srvs	
+ )
 
 ################################################
 ## Declare ROS dynamic reconfigure parameters ##
@@ -104,10 +112,10 @@ find_package(catkin REQUIRED COMPONENTS
 ## CATKIN_DEPENDS: catkin_packages dependent projects also need
 ## DEPENDS: system dependencies of this project that dependent projects also need
 catkin_package(
-#  INCLUDE_DIRS include
+  INCLUDE_DIRS include 
 #  LIBRARIES reference_saver
-#  CATKIN_DEPENDS roscpp rospy std_msgs
-#  DEPENDS system_lib
+  CATKIN_DEPENDS roscpp rospy std_msgs tf geometry_srvs std_srvs
+  DEPENDS system_lib
 )
 
 ###########
@@ -135,6 +143,8 @@ include_directories(
 ## With catkin_make all packages are built within a single CMake context
 ## The recommended prefix ensures that target names across packages don't collide
 # add_executable(${PROJECT_NAME}_node src/reference_saver_node.cpp)
+file(GLOB SOURCES "scripts/*.cpp")
+add_executable(position_logger ${SOURCES})
 
 ## Rename C++ executable without prefix
 ## The above recommended prefix causes long target names, the following renames the
@@ -150,7 +160,7 @@ include_directories(
 # target_link_libraries(${PROJECT_NAME}_node
 #   ${catkin_LIBRARIES}
 # )
-
+target_link_libraries(position_logger ${catkin_LIBRARIES})
 #############
 ## Install ##
 #############
