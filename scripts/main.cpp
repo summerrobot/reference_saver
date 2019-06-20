@@ -8,7 +8,6 @@ int main(int argc, char **argv)
 
     ros::ServiceServer service = get_position_node.advertiseService("log_position", getPosition);
 
-
     ROS_INFO("Ready to write position to file");
     ros::spin();
 

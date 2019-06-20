@@ -57,8 +57,18 @@ bool getPosition(std_srvs::Trigger::Response &position_response,
 {
 
     geometry_msgs::PoseStamped position;
+    tf::TransformListener listener;
+    tf::StampedTransform transform;
 
-    // TO DO
+    try{
+      //TODO: Put in correct frames 
+      listener.lookupTransform("map", "base_link",
+                               ros::Time(0), transform);
+    }
+    catch (tf::TransformException &ex) {
+      ROS_ERROR("%s",ex.what());
+      ros::Duration(1.0).sleep();
+    }
 
     getPositionInputandWriteToFile(position);
 
