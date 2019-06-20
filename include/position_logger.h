@@ -12,6 +12,7 @@
 #include <tf/tf.h>
 #include <tf/transform_listener.h>
 #include <stdlib.h>
+#include <tf/transform_datatypes.h>
 
 
 using namespace std;
@@ -26,7 +27,6 @@ struct Angles {
 char *user = getenv("USER");
 std::string USER(user);
 string OUTPUTFILENAME{"PostionLogger"};
-tf::TransformListener listener;
 
 bool getPosition(std_srvs::Trigger::Response &position_response,
                 std_srvs::Empty::Request &Xbox_button_request);
