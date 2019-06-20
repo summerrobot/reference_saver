@@ -25,7 +25,7 @@ struct Angles {
 
 
 bool getPosition(std_srvs::Trigger::Response &position_response,
-                std_srvs::Empty::Request &Xbox_button_request);
+                std_srvs::Trigger::Request &Xbox_button_request);
 
 void getPositionInputandWriteToFile(const geometry_msgs::PoseStamped &pos );
 Angles convertQuternionToRollPitchYaw(const geometry_msgs::PoseStamped &pos);

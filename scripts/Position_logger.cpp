@@ -9,9 +9,9 @@ struct Positions {
 
 */
 
-char *user = getenv("user");
-std::string USER_STRING(user);
+
 string OUTPUTFILENAME{"PostionLogger"};
+
 
 Angles convertQuternionToRollPitchYaw(const tf::StampedTransform &trans)
 {
@@ -32,6 +32,15 @@ void getPositionInputandWriteToFile(const tf::StampedTransform &trans )
 
     Angles rollpitchYaw{convertQuternionToRollPitchYaw(trans)};
 
+
+    const char* home = getenv("USER");
+
+    if (!home)
+    {
+        std::cerr << "USER is not defined." << std::endl;
+    }
+
+    std::string USER_STRING = home;
 
     // Open file
 
@@ -58,7 +67,7 @@ void getPositionInputandWriteToFile(const tf::StampedTransform &trans )
 
 
 bool getPosition(std_srvs::Trigger::Response &position_response,
-                std_srvs::Empty::Request &Xbox_button_request)
+                std_srvs::Trigger::Request &Xbox_button_request)
 {
 
     geometry_msgs::PoseStamped pose;
@@ -66,8 +75,7 @@ bool getPosition(std_srvs::Trigger::Response &position_response,
     tf::TransformListener listener;
     tf::StampedTransform transform;
 
-    try{
-      //TODO: Put in correct frames 
+    try{ 
       listener.lookupTransform("map", "base_link",
                                ros::Time(0), transform);
       getPositionInputandWriteToFile(transform);
@@ -80,15 +88,6 @@ bool getPosition(std_srvs::Trigger::Response &position_response,
       position_response.message = "Fault: Pose not stored to file";
       position_response.success = false;
     }
-
-
-
-
-
-
-
-    //
-
 }
 
 
