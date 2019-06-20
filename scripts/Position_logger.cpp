@@ -73,9 +73,9 @@ bool getPosition(std_srvs::Trigger::Response &position_response,
     geometry_msgs::PoseStamped pose;
 
     tf::TransformListener listener;
-    tf::StampedTransform transform;
-
-    try{ 
+    while(true){
+            tf::StampedTransform transform;
+            try{ 
       listener.lookupTransform("map", "base_link",
                                ros::Time(0), transform);
       getPositionInputandWriteToFile(transform);
@@ -87,7 +87,11 @@ bool getPosition(std_srvs::Trigger::Response &position_response,
       ros::Duration(1.0).sleep();
       position_response.message = "Fault: Pose not stored to file";
       position_response.success = false;
+      continue;
     }
+
+    }
+
 }
 
 
