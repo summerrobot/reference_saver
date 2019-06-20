@@ -1,0 +1,377 @@
+Script started on to. 20. juni 2019 kl. 09.28 +0200
+[1m[7m%[27m[1m[0m                                                                                     ]2;duytan@dt-thinkpad: ~/catkin_ws/src/reference_saver]1;..ference_saver[0m[27m[24m[J[01;32m➜  [36mreference_saver[00m [01;34mgit:([31mfeatures/tf_listener[34m) [33m✗[00m [K[?1h=[?2004hscripts[?1l>[?2004l
+]2;scripts]1;scripts[1m[7m%[27m[1m[0m                                                                                     ]2;duytan@dt-thinkpad: ~/catkin_ws/src/reference_saver/scripts]1;..saver/scripts[0m[27m[24m[J[01;32m➜  [36mscripts[00m [01;34mgit:([31mfeatures/tf_listener[34m) [33m✗[00m [K[?1h=[?2004hlls[?1l>[?2004l
+]2;ls --color=tty]1;lsmain.cpp  Position_logger.cpp  test3.cpp
+[1m[7m%[27m[1m[0m                                                                                     ]2;duytan@dt-thinkpad: ~/catkin_ws/src/reference_saver/scripts]1;..saver/scripts[0m[27m[24m[J[01;32m➜  [36mscripts[00m [01;34mgit:([31mfeatures/tf_listener[34m) [33m✗[00m [K[?1h=[?2004hv ccode Position_logger.cpp[1m [0m[0m [?1l>[?2004l
+]2;code Position_logger.cpp]1;code[1m[7m%[27m[1m[0m                                                                                     ]2;duytan@dt-thinkpad: ~/catkin_ws/src/reference_saver/scripts]1;..saver/scripts[0m[27m[24m[J[01;32m➜  [36mscripts[00m [01;34mgit:([31mfeatures/tf_listener[34m) [33m✗[00m [K[?1h=[?2004hlls[?1l>[?2004l
+]2;ls --color=tty]1;lsmain.cpp  Position_logger.cpp  test3.cpp
+[1m[7m%[27m[1m[0m                                                                                     ]2;duytan@dt-thinkpad: ~/catkin_ws/src/reference_saver/scripts]1;..saver/scripts[0m[27m[24m[J[01;32m➜  [36mscripts[00m [01;34mgit:([31mfeatures/tf_listener[34m) [33m✗[00m [K[?1h=[?2004h...[?1l>[?2004l
+]2;..]1;..[1m[7m%[27m[1m[0m                                                                                     ]2;duytan@dt-thinkpad: ~/catkin_ws/src/reference_saver]1;..ference_saver[0m[27m[24m[J[01;32m➜  [36mreference_saver[00m [01;34mgit:([31mfeatures/tf_listener[34m) [33m✗[00m [K[?1h=[?2004hlls[?1l>[?2004l
+]2;ls --color=tty]1;lsCMakeLists.txt  [0m[01;34minclude[0m  [01;34mlaunch[0m  package.xml  README.md  [01;34mscripts[0m  typescript
+[1m[7m%[27m[1m[0m                                                                                     ]2;duytan@dt-thinkpad: ~/catkin_ws/src/reference_saver]1;..ference_saver[0m[27m[24m[J[01;32m➜  [36mreference_saver[00m [01;34mgit:([31mfeatures/tf_listener[34m) [33m✗[00m [K[?1h=[?2004hiinclude[?1l>[?2004l
+]2;include]1;include[1m[7m%[27m[1m[0m                                                                                     ]2;duytan@dt-thinkpad: ~/catkin_ws/src/reference_saver/include]1;..saver/include[0m[27m[24m[J[01;32m➜  [36minclude[00m [01;34mgit:([31mfeatures/tf_listener[34m) [33m✗[00m [K[?1h=[?2004hlls[?1l>[?2004l
+]2;ls --color=tty]1;lshalla.txt  position_logger.h
+[1m[7m%[27m[1m[0m                                                                                     ]2;duytan@dt-thinkpad: ~/catkin_ws/src/reference_saver/include]1;..saver/include[0m[27m[24m[J[01;32m➜  [36minclude[00m [01;34mgit:([31mfeatures/tf_listener[34m) [33m✗[00m [K[?1h=[?2004hpposPOST[1m [0m[0m   P  ccode position_logger.h[1m [0m[0m [?1l>[?2004l
+]2;code position_logger.h]1;code[1m[7m%[27m[1m[0m                                                                                     ]2;duytan@dt-thinkpad: ~/catkin_ws/src/reference_saver/include]1;..saver/include[0m[27m[24m[J[01;32m➜  [36minclude[00m [01;34mgit:([31mfeatures/tf_listener[34m) [33m✗[00m [K[?1h=[?2004h...[?1l>[?2004l
+]2;..]1;..[1m[7m%[27m[1m[0m                                                                                     ]2;duytan@dt-thinkpad: ~/catkin_ws/src/reference_saver]1;..ference_saver[0m[27m[24m[J[01;32m➜  [36mreference_saver[00m [01;34mgit:([31mfeatures/tf_listener[34m) [33m✗[00m [K[?1h=[?2004hlls[?1l>[?2004l
+]2;ls --color=tty]1;lsCMakeLists.txt  [0m[01;34minclude[0m  [01;34mlaunch[0m  package.xml  README.md  [01;34mscripts[0m  typescript
+[1m[7m%[27m[1m[0m                                                                                     ]2;duytan@dt-thinkpad: ~/catkin_ws/src/reference_saver]1;..ference_saver[0m[27m[24m[J[01;32m➜  [36mreference_saver[00m [01;34mgit:([31mfeatures/tf_listener[34m) [33m✗[00m [K[?1h=[?2004hsscripts  ts[?1l>[?2004l
+]2;scripts]1;scripts[1m[7m%[27m[1m[0m                                                                                     ]2;duytan@dt-thinkpad: ~/catkin_ws/src/reference_saver/scripts]1;..saver/scripts[0m[27m[24m[J[01;32m➜  [36mscripts[00m [01;34mgit:([31mfeatures/tf_listener[34m) [33m✗[00m [K[?1h=[?2004hlls[?1l>[?2004l
+]2;ls --color=tty]1;lsmain.cpp  Position_logger.cpp  test3.cpp
+[1m[7m%[27m[1m[0m                                                                                     ]2;duytan@dt-thinkpad: ~/catkin_ws/src/reference_saver/scripts]1;..saver/scripts[0m[27m[24m[J[01;32m➜  [36mscripts[00m [01;34mgit:([31mfeatures/tf_listener[34m) [33m✗[00m [K[?1h=[?2004hpposPOST[1m [0m[0m   P  lsscriptsls     ..code position_logger.h[22Dls                    [20Dcode position_logger.h[?1l>[?2004l
+]2;code position_logger.h]1;code[1m[7m%[27m[1m[0m                                                                                     ]2;duytan@dt-thinkpad: ~/catkin_ws/src/reference_saver/scripts]1;..saver/scripts[0m[27m[24m[J[01;32m➜  [36mscripts[00m [01;34mgit:([31mfeatures/tf_listener[34m) [33m✗[00m [K[?1h=[?2004hccoc  lls[?1l>[?2004l
+]2;ls --color=tty]1;lsmain.cpp  Position_logger.cpp  test3.cpp
+[1m[7m%[27m[1m[0m                                                                                     ]2;duytan@dt-thinkpad: ~/catkin_ws/src/reference_saver/scripts]1;..saver/scripts[0m[27m[24m[J[01;32m➜  [36mscripts[00m [01;34mgit:([31mfeatures/tf_listener[34m) [33m✗[00m [K[?1h=[?2004hlscode position_logger.h cpp[?1l>[?2004l
+]2;code position_logger.cpp]1;code[1m[7m%[27m[1m[0m                                                                                     ]2;duytan@dt-thinkpad: ~/catkin_ws/src/reference_saver/scripts]1;..saver/scripts[0m[27m[24m[J[01;32m➜  [36mscripts[00m [01;34mgit:([31mfeatures/tf_listener[34m) [33m✗[00m [K[?1h=[?2004hlls[?1l>[?2004l
+]2;ls --color=tty]1;lsmain.cpp  Position_logger.cpp  test3.cpp
+[1m[7m%[27m[1m[0m                                                                                     ]2;duytan@dt-thinkpad: ~/catkin_ws/src/reference_saver/scripts]1;..saver/scripts[0m[27m[24m[J[01;32m➜  [36mscripts[00m [01;34mgit:([31mfeatures/tf_listener[34m) [33m✗[00m [K[?1h=[?2004h...[?1l>[?2004l
+]2;..]1;..[1m[7m%[27m[1m[0m                                                                                     ]2;duytan@dt-thinkpad: ~/catkin_ws/src/reference_saver]1;..ference_saver[0m[27m[24m[J[01;32m➜  [36mreference_saver[00m [01;34mgit:([31mfeatures/tf_listener[34m) [33m✗[00m [K[?1h=[?2004hlls[?1l>[?2004l
+]2;ls --color=tty]1;lsCMakeLists.txt  [0m[01;34minclude[0m  [01;34mlaunch[0m  package.xml  README.md  [01;34mscripts[0m  typescript
+[1m[7m%[27m[1m[0m                                                                                     ]2;duytan@dt-thinkpad: ~/catkin_ws/src/reference_saver]1;..ference_saver[0m[27m[24m[J[01;32m➜  [36mreference_saver[00m [01;34mgit:([31mfeatures/tf_listener[34m) [33m✗[00m [K[?1h=[?2004hggit checkout master[?1l>[?2004l
+]2;git checkout master]1;giterror: Your local changes to the following files would be overwritten by checkout:
+	scripts/Position_logger.cpp
+Please, commit your changes or stash them before you can switch branches.
+Aborting
+[1m[7m%[27m[1m[0m                                                                                     ]2;duytan@dt-thinkpad: ~/catkin_ws/src/reference_saver]1;..ference_saver[0m[27m[24m[J[01;31m➜  [36mreference_saver[00m [01;34mgit:([31mfeatures/tf_listener[34m) [33m✗[00m [K[?1h=[?2004hl ggit  g  ggfit   g  iiti  ggit statys[?1l>[?2004l
+]2;git statys]1;gitgit: 'statys' is not a git command. See 'git --help'.
+
+Did you mean this?
+	status
+[1m[7m%[27m[1m[0m                                                                                     ]2;duytan@dt-thinkpad: ~/catkin_ws/src/reference_saver]1;..ference_saver[0m[27m[24m[J[01;31m➜  [36mreference_saver[00m [01;34mgit:([31mfeatures/tf_listener[34m) [33m✗[00m [K[?1h=[?2004hggit stta  atus[?1l>[?2004l
+]2;git status]1;gitOn branch features/tf_listener
+Your branch is up-to-date with 'origin/features/tf_listener'.
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	[31mmodified:   scripts/Position_logger.cpp[m
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	[31mtypescript[m
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[1m[7m%[27m[1m[0m                                                                                     ]2;duytan@dt-thinkpad: ~/catkin_ws/src/reference_saver]1;..ference_saver[0m[27m[24m[J[01;32m➜  [36mreference_saver[00m [01;34mgit:([31mfeatures/tf_listener[34m) [33m✗[00m [K[?1h=[?2004hggit statsh       stats    tas h  [?1l>[?2004l
+]2;git stash]1;gitSaved working directory and index state WIP on features/tf_listener: 8ee1fc3 Modify the header file to include correct dependencies. Add the routine to getPosition to get the newest frame from map to base_link (untested).
+HEAD is now at 8ee1fc3 Modify the header file to include correct dependencies. Add the routine to getPosition to get the newest frame from map to base_link (untested).
+[1m[7m%[27m[1m[0m                                                                                     ]2;duytan@dt-thinkpad: ~/catkin_ws/src/reference_saver]1;..ference_saver[0m[27m[24m[J[01;32m➜  [36mreference_saver[00m [01;34mgit:([31mfeatures/tf_listener[34m) [33m✗[00m [K[?1h=[?2004hggig  ggit stash      g  ggit checkout         pull[?1l>[?2004l
+]2;git pull]1;gitremote: Enumerating objects: 11, done.[K
+remote: Counting objects:   9% (1/11)   [Kremote: Counting objects:  18% (2/11)   [Kremote: Counting objects:  27% (3/11)   [Kremote: Counting objects:  36% (4/11)   [Kremote: Counting objects:  45% (5/11)   [Kremote: Counting objects:  54% (6/11)   [Kremote: Counting objects:  63% (7/11)   [Kremote: Counting objects:  72% (8/11)   [Kremote: Counting objects:  81% (9/11)   [Kremote: Counting objects:  90% (10/11)   [Kremote: Counting objects: 100% (11/11)   [Kremote: Counting objects: 100% (11/11), done.[K
+remote: Compressing objects:  33% (1/3)   [Kremote: Compressing objects:  66% (2/3)   [Kremote: Compressing objects: 100% (3/3)   [Kremote: Compressing objects: 100% (3/3), done.[K
+remote: Total 6 (delta 3), reused 6 (delta 3), pack-reused 0[K
+Unpacking objects:  16% (1/6)   Unpacking objects:  33% (2/6)   Unpacking objects:  50% (3/6)   Unpacking objects:  66% (4/6)   Unpacking objects:  83% (5/6)   Unpacking objects: 100% (6/6)   Unpacking objects: 100% (6/6), done.
+From https://github.com/summerrobot/reference_saver
+   8ee1fc3..07689de  features/tf_listener -> origin/features/tf_listener
+Updating 8ee1fc3..07689de
+Fast-forward
+ include/position_logger.h   |  2 [32m+[m[31m-[m
+ scripts/Position_logger.cpp | 17 [32m++++++++++[m[31m-------[m
+ 2 files changed, 11 insertions(+), 8 deletions(-)
+[1m[7m%[27m[1m[0m                                                                                     ]2;duytan@dt-thinkpad: ~/catkin_ws/src/reference_saver]1;..ference_saver[0m[27m[24m[J[01;32m➜  [36mreference_saver[00m [01;34mgit:([31mfeatures/tf_listener[34m) [33m✗[00m [K[?1h=[?2004hggit checkout master[?1l>[?2004l
+]2;git checkout master]1;gitSwitched to branch 'master'
+Your branch is up-to-date with 'origin/master'.
+[1m[7m%[27m[1m[0m                                                                                     ]2;duytan@dt-thinkpad: ~/catkin_ws/src/reference_saver]1;..ference_saver[0m[27m[24m[J[01;32m➜  [36mreference_saver[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hlls[?1l>[?2004l
+]2;ls --color=tty]1;lsCMakeLists.txt  [0m[01;34minclude[0m  [01;34mlaunch[0m  package.xml  README.md  [01;34mscripts[0m  typescript
+[1m[7m%[27m[1m[0m                                                                                     ]2;duytan@dt-thinkpad: ~/catkin_ws/src/reference_saver]1;..ference_saver[0m[27m[24m[J[01;32m➜  [36mreference_saver[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hvvim CMakeLists.txt[1m [0m[0m [?1l>[?2004l
+]2;vim CMakeLists.txt]1;vim[?1049h[?1h=[2;1H▽[6n[2;1H  [1;1H]11;?[1;22r[?12;25h[?12l[?25h[27m[23m[m[H[2J[?25l[22;1H"CMakeLists.txt" 202L, 6921C[>c[1;1H[38;5;130mcmake_minimum_required[m[36m(VERSION 2.8.3)[m
+[38;5;130mproject[m[36m(reference_saver)[m
+
+[34m## Compile as C++11, supported in ROS Kinetic and newer
+# add_compile_options(-std=c++11)
+
+## Find catkin macros and libraries
+## if COMPONENTS list like find_package(catkin REQUIRED COMPONENTS xyz)
+## is used, also find other catkin packages[m
+[38;5;130mfind_package[m[36m(catkin REQUIRED COMPONENTS
+  roscpp
+  rospy
+  std_msgs
+  tf
+)[m
+
+[34m## System dependencies are found with CMake's conventions
+# find_package(Boost REQUIRED COMPONENTS system)
+
+
+## Uncomment this if the package has a setup.py. This macro ensures[m[22;68H1,1[11CTop[1;1H[?12l[?25h[27m[23m[m[H[2J[?25l[1;1H[93mcmake_minimum_required[m[1m[96m(VERSION 2.8.3)[m
+[93mproject[m[1m[96m(reference_saver)[m
+
+[96m## Compile as C++11, supported in ROS Kinetic and newer
+# add_compile_options(-std=c++11)
+
+## Find catkin macros and libraries
+## if COMPONENTS list like find_package(catkin REQUIRED COMPONENTS xyz)
+## is used, also find other catkin packages[m
+[93mfind_package[m[1m[96m(catkin REQUIRED COMPONENTS
+  roscpp
+  rospy
+  std_msgs
+  tf
+)[m
+
+[96m## System dependencies are found with CMake's conventions
+# find_package(Boost REQUIRED COMPONENTS system)
+
+
+## Uncomment this if the package has a setup.py. This macro ensures[m[22;68H1,1[11CTop"CMakeLists.txt" 202L, 6921C[1;1H[?12l[?25hP+q436f\P+q6b75\P+q6b64\P+q6b72\P+q6b6c\P+q2332\P+q2334\P+q2569\P+q2a37\P+q6b31\[?25l[22;68H2[2;1H[?12l[?25h[?25l[22;68H3,0-1[3;1H[?12l[?25h[?25l[22;68H4,1  [4;1H[?12l[?25h[?25l[22;68H5[5;1H[?12l[?25h[?25l[22;68H6,0-1[6;1H[?12l[?25h[?25l[22;68H7,1  [7;1H[?12l[?25h[?25l[22;68H8[8;1H[?12l[?25h[?25l[22;68H9[9;1H[?12l[?25h[?25l[22;68H10,1[10;1H[?12l[?25h[?25l[22;69H1[11;1H[?12l[?25h[?25l[22;69H2[12;1H[?12l[?25h[?25l[22;69H3[13;1H[?12l[?25h[?25l[22;69H4[14;1H[?12l[?25h[?25l[10;13H[1m[96m[46m([m[1m[96mcatkin REQUIRED COMPONENTS[m[15;1H[1m[96m[46m)[m[22;69H5[15;1H[?12l[?25h[?25l[10;13H[1m[96m(catkin REQUIRED COMPONENTS[15;1H)[m[22;69H6,0-1[16;1H[?12l[?25h[?25l[22;69H7,1  [17;1H[?12l[?25h[?25l[22;69H8[18;1H[?12l[?25h[?25l[22;69H9,0-1[19;1H[?12l[?25h[?25l[22;68H20[20;1H[?12l[?25h[?25l[22;69H1,1  [21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[21;1H[96m## modules and global scripts declared therein get installed[m[22;1H[K[22;68H22,1[11C0%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[21;1H[96m## See http://ros.org/doc/api/catkin/html/user_guide/setup_dot_py.html[m[22;68H[K[22;68H23,1[11C1%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[21;1H[96m# catkin_python_setup()[m[22;68H[K[22;68H24,1[11C1%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[22;68H[K[22;68H25,0-1[9C2%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[21;1H[96m################################################[m[22;68H[K[22;68H26,1[11C2%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[21;1H[96m## Declare ROS messages, services and actions ##[m[22;68H[K[22;68H27,1[11C3%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[21;1H[96m################################################[m[22;68H[K[22;68H28,1[11C3%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[22;68H[K[22;68H29,0-1[9C4%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[21;1H[96m## To declare and build messages, services or actions from within this[m[22;68H[K[22;68H30,1[11C4%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[21;1H[96m## package, follow these steps:[m[22;68H[K[22;68H31,1[11C5%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[21;1H[96m## * Let MSG_DEP_SET be the set of packages whose message types you use in[m[22;68H[K[22;68H32,1[11C6%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[21;1H[96m##   your messages/services/actions (e.g. std_msgs, actionlib_msgs, ...).[m[22;68H[K[22;68H33,1[11C6%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[21;1H[96m## * In the file package.xml:[m[22;68H[K[22;68H34,1[11C7%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[21;1H[96m##   * add a build_depend tag for "message_generation"[m[22;68H[K[22;68H35,1[11C7%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[21;1H[96m##   * add a build_depend and a exec_depend tag for each package in MSG_DEP_SET[m[22;68H[K[22;68H36,1[11C8%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[21;1H[96m##   * If MSG_DEP_SET isn't empty the following dependency has been pulled in[m[22;68H[K[22;68H37,1[11C8%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[21;1H[96m##     but can be declared for certainty nonetheless:[m[22;68H[K[22;68H38,1[11C9%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[21;1H[96m##     * add a exec_depend tag for "message_runtime"[m[22;68H[K[22;68H39,1[11C9%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[21;1H[96m## * In this file (CMakeLists.txt):[m[22;68H[K[22;68H40,1[10C10%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[21;1H[96m##   * add "message_generation" and every package in MSG_DEP_SET to[m[22;68H[K[22;68H41,1[10C11%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[21;1H[96m##     find_package(catkin REQUIRED COMPONENTS ...)[m[22;68H[K[22;68H42,1[10C11%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[21;1H[96m##   * add "message_runtime" and every package in MSG_DEP_SET to[m[22;68H[K[22;68H43,1[10C12%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[21;1H[96m##     catkin_package(CATKIN_DEPENDS ...)[m[22;68H[K[22;68H44,1[10C12%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[21;1H[96m##   * uncomment the add_*_files sections below as needed[m[22;68H[K[22;68H45,1[10C13%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[21;1H[96m##     and list every .msg/.srv/.action file to be processed[m[22;68H[K[22;68H46,1[10C13%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[21;1H[96m##   * uncomment the generate_messages entry below[m[22;68H[K[22;68H47,1[10C14%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[21;1H[96m##   * add every package in MSG_DEP_SET to generate_messages(DEPENDENCIES ...)[m[22;68H[K[22;68H48,1[10C14%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[22;68H[K[22;68H49,0-1[8C15%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[21;1H[96m## Generate messages in the 'msg' folder[m[22;68H[K[22;68H50,1[10C16%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[21;1H[96m# add_message_files([m[22;68H[K[22;68H51,1[10C16%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[21;1H[96m#   FILES[m[22;68H[K[22;68H52,1[10C17%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[21;1H[96m#   Message1.msg[m[22;68H[K[22;68H53,1[10C17%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[21;1H[96m#   Message2.msg[m[22;68H[K[22;68H54,1[10C18%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[21;1H[96m# )[m[22;68H[K[22;68H55,1[10C18%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[22;68H[K[22;68H56,0-1[8C19%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[21;1H[96m## Generate services in the 'srv' folder[m[22;68H[K[22;68H57,1[10C19%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[21;1H[96m# add_service_files([m[22;68H[K[22;68H58,1[10C20%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[21;1H[96m#   FILES[m[22;68H[K[22;68H59,1[10C20%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[21;1H[96m#   Service1.srv[m[22;68H[K[22;68H60,1[10C21%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[21;1H[96m#   Service2.srv[m[22;68H[K[22;68H61,1[10C22%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[21;1H[96m# )[m[22;68H[K[22;68H62,1[10C22%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[22;68H[K[22;68H63,0-1[8C23%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[21;1H[96m## Generate actions in the 'action' folder[m[22;68H[K[22;68H64,1[10C23%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[21;1H[96m# add_action_files([m[22;68H[K[22;68H65,1[10C24%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[21;1H[96m#   FILES[m[22;68H[K[22;68H66,1[10C24%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[21;1H[96m#   Action1.action[m[22;68H[K[22;68H67,1[10C25%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[21;1H[96m#   Action2.action[m[22;68H[K[22;68H68,1[10C25%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[21;1H[96m# )[m[22;68H[K[22;68H69,1[10C26%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[22;68H[K[22;68H70,0-1[8C27%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[21;1H[96m## Generate added messages and services with any dependencies listed here[m[22;68H[K[22;68H71,1[10C27%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[21;1H[96m# generate_messages([m[22;68H[K[22;68H72,1[10C28%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[21;1H[96m#   DEPENDENCIES[m[22;68H[K[22;68H73,1[10C28%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[21;1H[96m#   std_msgs[m[22;68H[K[22;68H74,1[10C29%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[21;1H[96m# )[m[22;68H[K[22;68H75,1[10C29%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[22;68H[K[22;68H76,0-1[8C30%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[21;1H[96m################################################[m[22;68H[K[22;68H77,1[10C30%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[21;1H[96m## Declare ROS dynamic reconfigure parameters ##[m[22;68H[K[22;68H78,1[10C31%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[21;1H[96m################################################[m[22;68H[K[22;68H79,1[10C32%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[22;68H[K[22;68H80,0-1[8C32%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[21;1H[96m## To declare and build dynamic reconfigure parameters within this[m[22;68H[K[22;68H81,1[10C33%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[21;1H[96m## package, follow these steps:[m[22;68H[K[22;68H82,1[10C33%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[21;1H[96m## * In the file package.xml:[m[22;68H[K[22;68H83,1[10C34%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[21;1H[96m##   * add a build_depend and a exec_depend tag for "dynamic_reconfigure"[m[22;68H[K[22;68H84,1[10C34%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[21;1H[96m## * In this file (CMakeLists.txt):[m[22;68H[K[22;68H85,1[10C35%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[21;1H[96m##   * add "dynamic_reconfigure" to[m[22;68H[K[22;68H86,1[10C35%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[21;1H[96m##     find_package(catkin REQUIRED COMPONENTS ...)[m[22;68H[K[22;68H87,1[10C36%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[21;1H[96m##   * uncomment the "generate_dynamic_reconfigure_options" section below[m[22;68H[K[22;68H88,1[10C37%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[21;1H[96m##     and list every .cfg file to be processed[m[22;68H[K[22;68H89,1[10C37%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[22;68H[K[22;68H90,0-1[8C38%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[21;1H[96m## Generate dynamic reconfigure parameters in the 'cfg' folder[m[22;68H[K[22;68H91,1[10C38%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[21;1H[96m# generate_dynamic_reconfigure_options([m[22;68H[K[22;68H92,1[10C39%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[21;1H[96m#   cfg/DynReconf1.cfg[m[22;68H[K[22;68H93,1[10C39%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[21;1H[96m#   cfg/DynReconf2.cfg[m[22;68H[K[22;68H94,1[10C40%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[21;1H[96m# )[m[22;68H[K[22;68H95,1[10C40%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[22;68H[K[22;68H96,0-1[8C41%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[21;1H[96m###################################[m[22;68H[K[22;68H97,1[10C41%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[21;1H[96m## catkin specific configuration ##[m[22;68H[K[22;68H98,1[10C42%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[21;1H[96m###################################[m[22;68H[K[22;68H99,1[10C43%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[21;1H[96m## The catkin_package macro generates cmake config files for your package[m[22;68H[K[22;68H100,1[9C43%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[21;1H[96m## Declare things to be passed to dependent projects[m[22;68H[K[22;68H101,1[9C44%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[21;1H[96m## INCLUDE_DIRS: uncomment this if your package contains header files[m[22;68H[K[22;68H102,1[9C44%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[21;1H[96m## LIBRARIES: libraries you create in this project that dependent projects also need[m[22;68H[K[22;68H103,1[9C45%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[21;1H[96m## CATKIN_DEPENDS: catkin_packages dependent projects also need[m[22;68H[K[22;68H104,1[9C45%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[21;1H[96m## DEPENDS: system dependencies of this project that dependent projects also need[m[22;68H[K[22;68H105,1[9C46%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[21;1Hcatkin_package[1m[96m([m[22;68H[K[22;68H106,1[9C46%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[21;1H[96m#  INCLUDE_DIRS include[m[22;68H[K[22;68H107,1[9C47%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[21;1H[96m#  LIBRARIES reference_saver[m[22;68H[K[22;68H108,1[9C48%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[21;1H[96m#  CATKIN_DEPENDS roscpp rospy std_msgs[m[22;68H[K[22;68H109,1[9C48%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[21;1H[96m#  DEPENDS system_lib[m[22;68H[K[22;68H110,1[9C49%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[16;15H[1m[96m[46m([21;1H)[m[22;68H[K[22;68H111,1[9C49%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[15;15H[1m[96m([20;1H)[m[22;68H[K[22;68H112,0-1[7C50%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[21;1H[96m###########[m[22;68H[K[22;68H113,1[9C50%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[21;1H[96m## Build ##[m[22;68H[K[22;68H114,1[9C51%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[21;1H[96m###########[m[22;68H[K[22;68H115,1[9C51%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[22;68H[K[22;68H116,0-1[7C52%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[21;1H[96m## Specify additional locations of header files[m[22;68H[K[22;68H117,1[9C53%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[21;1H[96m## Your package locations should be listed before other locations[m[22;68H[K[22;68H118,1[9C53%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[21;1H[93minclude_directories[m[1m[96m([m[22;68H[K[22;68H119,1[9C54%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[21;1H[96m# include[m[22;68H[K[22;68H120,1[9C54%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[21;1H[1m[96m  [m[38;5;121m${catkin_INCLUDE_DIRS}[m[22;68H[K[22;68H121,1[9C55%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[18;20H[1m[96m[46m(
+
+
+)[m[22;68H[K[22;68H122,1[9C55%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[17;20H[1m[96m(
+
+
+)[m[22;68H[K[22;68H123,0-1[7C56%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[21;1H[96m## Declare a C++ library[m[22;68H[K[22;68H124,1[9C56%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[21;1H[96m# add_library(${PROJECT_NAME}[m[22;68H[K[22;68H125,1[9C57%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[21;1H[96m#   src/${PROJECT_NAME}/reference_saver.cpp[m[22;68H[K[22;68H126,1[9C58%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[21;1H[96m# )[m[22;68H[K[22;68H127,1[9C58%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[22;68H[K[22;68H128,0-1[7C59%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[21;1H[96m## Add cmake target dependencies of the library[m[22;68H[K[22;68H129,1[9C59%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[21;1H[96m## as an example, code may need to be generated before libraries[m[22;68H[K[22;68H130,1[9C60%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[21;1H[96m## either from message generation or dynamic reconfigure[m[22;68H[K[22;68H131,1[9C60%[21;1H[?12l[?25h[?25l[1;21r[1;1H[2M[1;22r[20;1H[96m# add_dependencies(${PROJECT_NAME} ${${PROJECT_NAME}_EXPORTED_TARGETS} ${catkin_EXPORR[21;1HTED_TARGETS})[m[22;68H[K[22;68H132,1[9C61%[20;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[22;68H[K[22;68H133,0-1[7C62%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[21;1H[96m## Declare a C++ executable[m[22;68H[K[22;68H134,1[9C62%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[21;1H[96m## With catkin_make all packages are built within a single CMake context[m[22;68H[K[22;68H135,1[9C63%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[21;1H[96m## The recommended prefix ensures that target names across packages don't collide[m[22;68H[K[22;68H136,1[9C63%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[21;1H[96m# add_executable(${PROJECT_NAME}_node src/reference_saver_node.cpp)[m[22;68H[K[22;68H137,1[9C64%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[22;68H[K[22;68H138,0-1[7C64%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[21;1H[96m## Rename C++ executable without prefix[m[22;68H[K[22;68H139,1[9C65%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[21;1H[96m## The above recommended prefix causes long target names, the following renames the[m[22;68H[K[22;68H140,1[9C65%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[21;1H[96m## target back to the shorter version for ease of user use[m[22;68H[K[22;68H141,1[9C66%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[21;1H[96m## e.g. "rosrun someones_pkg node" instead of "rosrun someones_pkg someones_pkg_node"[m[22;68H[K[22;68H142,1[9C67%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[21;1H[96m# set_target_properties(${PROJECT_NAME}_node PROPERTIES OUTPUT_NAME node PREFIX "")[m[22;68H[K[22;68H143,1[9C67%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[22;68H[K[22;68H144,0-1[7C68%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[21;1H[96m## Add cmake target dependencies of the executable[m[22;68H[K[22;68H145,1[9C68%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[21;1H[96m## same as for the library above[m[22;68H[K[22;68H146,1[9C69%[21;1H[?12l[?25h[?25l[1;21r[1;1H[2M[1;22r[20;1H[96m# add_dependencies(${PROJECT_NAME}_node ${${PROJECT_NAME}_EXPORTED_TARGETS} ${catkin__[21;1HEXPORTED_TARGETS})[m[22;68H[K[22;68H147,1[9C69%[20;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[22;68H[K[22;68H148,0-1[7C70%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[21;1H[96m## Specify libraries to link a library or executable target against[m[22;68H[K[22;68H149,1[9C71%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[21;1H[96m# target_link_libraries(${PROJECT_NAME}_node[m[22;68H[K[22;68H150,1[9C71%[21;1H[?12l[?25h[?25l[1;21r[1;1H[2M[1;22r[20;1H[96m#   ${catkin_LIBRARIES}
+# )[m[22;68H[K[22;68H151,1[9C72%[20;1H[?12l[?25h[?25l[22;70H2[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[22;68H[K[22;68H153,0-1[7C73%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[21;1H[96m#############[m[22;68H[K[22;68H154,1[9C73%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[21;1H[96m## Install ##[m[22;68H[K[22;68H155,1[9C74%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[21;1H[96m#############[m[22;68H[K[22;68H156,1[9C74%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[22;68H[K[22;68H157,0-1[7C75%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[21;1H[96m# all install targets should use catkin DESTINATION variables[m[22;68H[K[22;68H158,1[9C75%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[21;1H[96m# See http://ros.org/doc/api/catkin/html/adv_user_guide/variables.html[m[22;68H[K[22;68H159,1[9C76%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[22;68H[K[22;68H160,0-1[7C76%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[21;1H[96m## Mark executable scripts (Python etc.) for installation[m[22;68H[K[22;68H161,1[9C77%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[21;1H[96m## in contrast to setup.py, you can choose the destination[m[22;68H[K[22;68H162,1[9C78%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[21;1H[96m# install(PROGRAMS[m[22;68H[K[22;68H163,1[9C78%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[21;1H[96m#   scripts/my_python_script[m[22;68H[K[22;68H164,1[9C79%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[21;1H[96m#   DESTINATION ${CATKIN_PACKAGE_BIN_DESTINATION}[m[22;68H[K[22;68H165,1[9C79%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[21;1H[96m# )[m[22;68H[K[22;68H166,1[9C80%[21;1H[?12l[?25h[?25l[1;21r[1;1H[2M[1;22r[21;1H[96m## Mark executables and/or libraries for installation[m[22;68H[K[22;68H167,0-1[7C81%[20;1H[?12l[?25h[?25l[22;70H8,1  [21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[21;1H[96m# install(TARGETS ${PROJECT_NAME} ${PROJECT_NAME}_node[m[22;68H[K[22;68H169,1[9C81%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[21;1H[96m#   ARCHIVE DESTINATION ${CATKIN_PACKAGE_LIB_DESTINATION}[m[22;68H[K[22;68H170,1[9C82%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[21;1H[96m#   LIBRARY DESTINATION ${CATKIN_PACKAGE_LIB_DESTINATION}[m[22;68H[K[22;68H171,1[9C82%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[21;1H[96m#   RUNTIME DESTINATION ${CATKIN_PACKAGE_BIN_DESTINATION}[m[22;68H[K[22;68H172,1[9C83%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[21;1H[96m# )[m[22;68H[K[22;68H173,1[9C83%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[22;68H[K[22;68H174,0-1[7C84%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[21;1H[96m## Mark cpp header files for installation[m[22;68H[K[22;68H175,1[9C85%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[21;1H[96m# install(DIRECTORY include/${PROJECT_NAME}/[m[22;68H[K[22;68H176,1[9C85%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[21;1H[96m#   DESTINATION ${CATKIN_PACKAGE_INCLUDE_DESTINATION}[m[22;68H[K[22;68H177,1[9C86%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[21;1H[96m#   FILES_MATCHING PATTERN "*.h"[m[22;68H[K[22;68H178,1[9C86%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[21;1H[96m#   PATTERN ".svn" EXCLUDE[m[22;68H[K[22;68H179,1[9C87%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[21;1H[96m# )[m[22;68H[K[22;68H180,1[9C87%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[22;68H[K[22;68H181,0-1[7C88%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[21;1H[96m## Mark other files for installation (e.g. launch and bag files, etc.)[m[22;68H[K[22;68H182,1[9C88%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[21;1H[96m# install(FILES[m[22;68H[K[22;68H183,1[9C89%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[21;1H[96m#   # myfile1[m[22;68H[K[22;68H184,1[9C90%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[21;1H[96m#   # myfile2[m[22;68H[K[22;68H185,1[9C90%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[21;1H[96m#   DESTINATION ${CATKIN_PACKAGE_SHARE_DESTINATION}[m[22;68H[K[22;68H186,1[9C91%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[21;1H[96m# )[m[22;68H[K[22;68H187,1[9C91%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[22;68H[K[22;68H188,0-1[7C92%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[21;1H[96m#############[m[22;68H[K[22;68H189,1[9C92%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[21;1H[96m## Testing ##[m[22;68H[K[22;68H190,1[9C93%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[21;1H[96m#############[m[22;68H[K[22;68H191,1[9C93%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[22;68H[K[22;68H192,0-1[7C94%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[21;1H[96m## Add gtest based cpp test target and link libraries[m[22;68H[K[22;68H193,1[9C95%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[21;1H[96m# catkin_add_gtest(${PROJECT_NAME}-test test/test_reference_saver.cpp)[m[22;68H[K[22;68H194,1[9C95%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[21;1H[96m# if(TARGET ${PROJECT_NAME}-test)[m[22;68H[K[22;68H195,1[9C96%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[21;1H[96m#   target_link_libraries(${PROJECT_NAME}-test ${PROJECT_NAME})[m[22;68H[K[22;68H196,1[9C96%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[21;1H[96m# endif()[m[22;68H[K[22;68H197,1[9C97%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[22;68H[K[22;68H198,0-1[7C97%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[21;1H[96m## Add folders to be run by python nosetests[m[22;68H[K[22;68H199,1[9C98%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[21;1H[96m# catkin_add_nosetests(test)[m[22;68H[K[22;68H200,1[9C98%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[21;1H[93madd_executable[m[1m[96m(Position_logger  src/Position_logger.cpp)[m[22;68H[K[22;68H201,1[9C99%[21;1H[?12l[?25h[?25l[1;21r[21;1H
+[1;22r[21;1H[93mtarget_link_libraries[m[1m[96m(Position_logger [m[38;5;121m${catkin_LIBRARIES}[m[1m[96m)[m[22;68H[K[22;68H202,1[9CBot[21;1H[?12l[?25h[?25l
+[1m-- INSERT --[m[22;68H[K[22;68H202,1[9CBot[21;1H[?12l[?25h[?25l[20;57H[93mtarget_link_libraries[m[1m[96m(Positioo[21;1Hn_logger [m[38;5;121m${catkin_LIBRARIES}[m[1m[96m)[m[21;30H[K[20;15H[1m[96m[46m([m[1m[96mPosition_logger  src/Position_logger.cpp[m[1m[96m[46m)[m[93mt[m[27C[1m[96moo[21;1Hn[m[22;70H1,57[20;57H[?12l[?25h[?25l[1m[96m[46mt[m[1m[96marget_link_libraries(Positionn[21;1H_logger [m[38;5;121m${catkin_LIBRARIES}[m[1m[96m)[m[21;29H[K[20;15H[1m[96m(Position_logger  src/Position_logger.cpptarget_link_libraries(Positionn[21;1H_[m[22;73H6[20;56H[?12l[?25h[?25l[1m[96mtarget_link_libraries(Position__[21;1Hlogger [m[38;5;121m${catkin_LIBRARIES}[m[1m[96m)[m[21;28H[K[22;73H5[20;55H[?12l[?25h[?25l[1m[96mtarget_link_libraries(Position_ll[21;1Hogger [m[38;5;121m${catkin_LIBRARIES}[m[1m[96m)[m[21;27H[K[22;73H4[20;54H[?12l[?25h[?25l[93mtarget_link_libraries[m[1m[96m(Position_loo[21;1Hgger [m[38;5;121m${catkin_LIBRARIES}[m[1m[96m)[m[21;26H[K[22;73H3[20;53H[?12l[?25h[?25l[1m[96mtarget_link_libraries(Position_logg[21;1Hger [m[38;5;121m${catkin_LIBRARIES}[m[1m[96m)[m[21;25H[K[22;73H2[20;52H[?12l[?25h[?25l[1m[96mtarget_link_libraries(Position_loggg[21;1Her [m[38;5;121m${catkin_LIBRARIES}[m[1m[96m)[m[21;24H[K[22;73H1[20;51H[?12l[?25h[?25l[1m[96mtarget_link_libraries(Position_loggee[21;1Hr [m[38;5;121m${catkin_LIBRARIES}[m[1m[96m)[m[21;23H[K[22;73H0[20;50H[?12l[?25h[?25l[1m[96mtarget_link_libraries(Position_loggerr[21;1H [m[38;5;121m${catkin_LIBRARIES}[m[1m[96m)[m[21;22H[K[22;72H49[20;49H[?12l[?25h[?25l[1m[96mtarget_link_libraries(Position_logger  [m[21;1H[38;5;121m${catkin_LIBRARIES}[m[1m[96m)[m[21;21H[K[22;73H8[20;48H[?12l[?25h[?25l[1m[96mtarget_link_libraries(Position_logger [m[38;5;121m$$[21;1H{catkin_LIBRARIES}[m[1m[96m)[m[21;20H[K[22;73H7[20;47H[?12l[?25h[?25l[1m[96mtarget_link_libraries(Position_logger [m[38;5;121m${{[21;1Hcatkin_LIBRARIES}[m[1m[96m)[m[21;19H[K[22;73H6[20;46H[?12l[?25h[?25l[1m[96mtarget_link_libraries(Position_logger [m[38;5;121m${cc[21;1Hatkin_LIBRARIES}[m[1m[96m)[m[21;18H[K[22;73H5[20;45H[?12l[?25h[?25l[1m[96mtarget_link_libraries(Position_logger [m[38;5;121m${caa[21;1Htkin_LIBRARIES}[m[1m[96m)[m[21;17H[K[22;73H4[20;44H[?12l[?25h[?25l[1m[96mtarget_link_libraries(Position_logger [m[38;5;121m${catt[21;1Hkin_LIBRARIES}[m[1m[96m)[m[21;16H[K[22;73H3[20;43H[?12l[?25h[?25l[1m[96mtarget_link_libraries(Position_logger [m[38;5;121m${catkk[21;1Hin_LIBRARIES}[m[1m[96m)[m[21;15H[K[22;73H2[20;42H[?12l[?25h[?25l[1m[96marget_link_libraries(Position_logger [m[38;5;121m${catkii[21;1Hn_LIBRARIES}[m[1m[96m)[m[21;14H[K[22;73H1[20;41H[?12l[?25h[?25l[1m[96mtarget_link_libraries(Position_logger [m[38;5;121m${catkinn[21;1H_LIBRARIES}[m[1m[96m)[m[21;13H[K[22;73H0[20;40H[?12l[?25h[?25l[1m[96mtarget_link_libraries(Position_logger [m[38;5;121m${catkin__[21;1HLIBRARIES}[m[1m[96m)[m[21;12H[K[22;72H39[20;39H[?12l[?25h[?25l[1m[96mtarget_link_libraries(Position_logger [m[38;5;121m${catkin_LL[21;1HIBRARIES}[m[1m[96m)[m[21;11H[K[22;73H8[20;38H[?12l[?25h[?25l[93mtarget_link_libraries[m[1m[96m(Position_logger [m[38;5;121m${catkin_LII[21;1HBRARIES}[m[1m[96m)[m[21;10H[K[22;73H7[20;37H[?12l[?25h[?25l[1m[96mtarget_link_libraries(Position_logger [m[38;5;121m${catkin_LIBB[21;1HRARIES}[m[1m[96m)[m[21;9H[K[22;73H6[20;36H[?12l[?25h[?25l[1m[96mtarget_link_libraries(Position_logger [m[38;5;121m${catkin_LIBRR[21;1HARIES}[m[1m[96m)[m[21;8H[K[22;73H5[20;35H[?12l[?25h[?25l[1m[96mtarget_link_libraries(Position_logger [m[38;5;121m${catkin_LIBRAA[21;1HRIES}[m[1m[96m)[m[21;7H[K[22;73H4[20;34H[?12l[?25h[?25l[93mtarget_link_libraries[m[1m[96m(Position_logger [m[38;5;121m${catkin_LIBRARR[21;1HIES}[m[1m[96m)[m[21;6H[K[22;73H3[20;33H[?12l[?25h[?25l[93mtarget_link_libraries[m[1m[96m(Position_logger [m[38;5;121m${catkin_LIBRARII[21;1HES}[m[1m[96m)[m[21;5H[K[22;73H2[20;32H[?12l[?25h[?25l[1m[96mtarget_link_libraries(Position_logger [m[38;5;121m${catkin_LIBRARIEE[21;1HS}[m[1m[96m)[m[21;4H[K[22;73H1[20;31H[?12l[?25h[?25l[1m[96mtarget_link_libraries(Position_logger [m[38;5;121m${catkin_LIBRARIESS[21;1H}[m[1m[96m)[m[21;3H[K[22;73H0[20;30H[?12l[?25h[?25l[1m[96mtarget_link_libraries(Position_logger [m[38;5;121m${catkin_LIBRARIES}}[m[21;1H[1m[96m)[m[21;2H[K[22;72H29[20;29H[?12l[?25h[?25l[1m[96mtarget_link_libraries(Position_logger [m[38;5;121m${catkin_LIBRARIES}[m[1m[96m)[m[21;1H[94m~                                                                                    [m[22;73H8[20;28H[?12l[?25h[?25l[1m[96mtarget_link_libraries(Position_logger [m[38;5;121m${catkin_LIBRARIES}[m[1m[96m)[m[20;85H[K[22;73H7[20;27H[?12l[?25h[?25l[1m[96mtarget_link_libraries(Position_logger [m[38;5;121m${catkin_LIBRARIES}[m[1m[96m)[m[20;84H[K[22;73H6[20;26H[?12l[?25h[?25l[1m[96mtarget_link_libraries(Position_logger [m[38;5;121m${catkin_LIBRARIES}[m[1m[96m)[m[20;83H[K[22;73H5[20;25H[?12l[?25h[?25l[1m[96mtarget_link_libraries(Position_logger [m[38;5;121m${catkin_LIBRARIES}[m[1m[96m)[m[20;82H[K[22;73H4[20;24H[?12l[?25h[?25l[1m[96mtarget_link_libraries(Position_logger [m[38;5;121m${catkin_LIBRARIES}[m[1m[96m)[m[20;81H[K[22;73H3[20;23H[?12l[?25h[?25l[1m[96mtarget_link_libraries(Position_logger [m[38;5;121m${catkin_LIBRARIES}[m[1m[96m)[m[20;80H[K[22;73H2[20;22H[?12l[?25h[?25l[1m[96mtarget_link_libraries(Position_logger [m[38;5;121m${catkin_LIBRARIES}[m[1m[96m)[m[20;79H[K[22;73H1[20;21H[?12l[?25h[?25l[1m[96marget_link_libraries(Position_logger [m[38;5;121m${catkin_LIBRARIES}[m[1m[96m)[m[20;78H[K[22;73H0[20;20H[?12l[?25h[?25l[1m[96mtarget_link_libraries(Position_logger [m[38;5;121m${catkin_LIBRARIES}[m[1m[96m)[m[20;77H[K[22;72H19[20;19H[?12l[?25h[?25l[1m[96mtarget_link_libraries(Position_logger [m[38;5;121m${catkin_LIBRARIES}[m[1m[96m)[m[20;76H[K[22;73H8[20;18H[?12l[?25h[?25l[1m[96mtarget_link_libraries(Position_logger [m[38;5;121m${catkin_LIBRARIES}[m[1m[96m)[m[20;75H[K[22;73H7[20;17H[?12l[?25h[?25l[93mtarget_link_libraries[m[1m[96m(Position_logger [m[38;5;121m${catkin_LIBRARIES}[m[1m[96m)[m[20;74H[K[22;73H6[20;16H[?12l[?25h[?25ladd_executabletarget_link_libraries[1m[96m(Position_logger [m[38;5;121m${catkin_LIBRARIES}[m[1m[96m)[m[20;73H[K[22;73H5[20;15H[?12l[?25h[?25ltarget_link_libraries[1m[96m(Position_logger [m[38;5;121m${catkin_LIBRARIES}[m[1m[96m)[m[20;72H[K[22;73H4[20;14H[?12l[?25h[?25ltarget_link_libraries[1m[96m(Position_logger [m[38;5;121m${catkin_LIBRARIES}[m[1m[96m)[m[20;71H[K[22;73H3[20;13H[?12l[?25h[?25ltarget_link_libraries[1m[96m(Position_logger [m[38;5;121m${catkin_LIBRARIES}[m[1m[96m)[m[20;70H[K[22;73H2[20;12H[?12l[?25h[?25ltarget_link_libraries[1m[96m(Position_logger [m[38;5;121m${catkin_LIBRARIES}[m[1m[96m)[m[20;69H[K[22;73H1[20;11H[?12l[?25h[?25larget_link_libraries[1m[96m(Position_logger [m[38;5;121m${catkin_LIBRARIES}[m[1m[96m)[m[20;68H[K[22;73H0[20;10H[?12l[?25h[?25ltarget_link_libraries[1m[96m(Position_logger [m[38;5;121m${catkin_LIBRARIES}[m[1m[96m)[m[20;67H[K[22;72H9 [20;9H[?12l[?25h[?25ltarget_link_libraries[1m[96m(Position_logger [m[38;5;121m${catkin_LIBRARIES}[m[1m[96m)[m[20;66H[K[22;72H8[20;8H[?12l[?25h[?25ltarget_link_libraries[1m[96m(Position_logger [m[38;5;121m${catkin_LIBRARIES}[m[1m[96m)[m[20;65H[K[22;72H7[20;7H[?12l[?25h[?25ltarget_link_libraries[1m[96m(Position_logger [m[38;5;121m${catkin_LIBRARIES}[m[1m[96m)[m[20;64H[K[22;72H6[20;6H[?12l[?25h[?25ltarget_link_libraries[1m[96m(Position_logger [m[38;5;121m${catkin_LIBRARIES}[m[1m[96m)[m[20;63H[K[22;72H5[20;5H[?12l[?25h[?25ltarget_link_libraries[1m[96m(Position_logger [m[38;5;121m${catkin_LIBRARIES}[m[1m[96m)[m[20;62H[K[22;72H4[20;4H[?12l[?25h[?25ltarget_link_libraries[1m[96m(Position_logger [m[38;5;121m${catkin_LIBRARIES}[m[1m[96m)[m[20;61H[K[22;72H3[20;3H[?12l[?25h[?25ltarget_link_libraries[1m[96m(Position_logger [m[38;5;121m${catkin_LIBRARIES}[m[1m[96m)[m[20;60H[K[22;72H2[20;2H[?12l[?25h[?25l[93mtarget_link_libraries[m[1m[96m(Position_logger [m[38;5;121m${catkin_LIBRARIES}[m[1m[96m)[m[20;59H[K[22;72H1[20;1H[?12l[?25h[22;1H[K[20;1H[?25l[22;68H201,1[9CBot[20;1H[?12l[?25h[?25l[22;68H[K[22;1H/[?12l[?25ha[?25l[?12l[?25hd[?25l[?12l[?25hd[?25l[?12l[?25h_[?25l[?12l[?25he[?25l[?12l[?25hx[?25l[?12l[?25he[?25l[?12l[?25hc[?25l[?12l[?25hu[?25l[?12l[?25ht[?25l[?12l[?25h[?25l[38;5;224msearch hit BOTTOM, continuing at TOP[27m[23m[m[H[2J[1;1H[96m## Add cmake target dependencies of the library
+## as an example, code may need to be generated before libraries
+## either from message generation or dynamic reconfigure
+# add_dependencies(${PROJECT_NAME} ${${PROJECT_NAME}_EXPORTED_TARGETS} ${catkin_EXPORR[5;1HTED_TARGETS})
+
+## Declare a C++ executable
+## With catkin_make all packages are built within a single CMake context
+## The recommended prefix ensures that target names across packages don't collide
+# add_executable(${PROJECT_NAME}_node src/reference_saver_node.cpp)
+
+## Rename C++ executable without prefix
+## The above recommended prefix causes long target names, the following renames the
+## target back to the shorter version for ease of user use
+## e.g. "rosrun someones_pkg node" instead of "rosrun someones_pkg someones_pkg_node"[16;1H# set_target_properties(${PROJECT_NAME}_node PROPERTIES OUTPUT_NAME node PREFIX "")
+
+## Add cmake target dependencies of the executable
+## same as for the library above
+# add_dependencies(${PROJECT_NAME}_node ${${PROJECT_NAME}_EXPORTED_TARGETS} ${catkin__[21;1HEXPORTED_TARGETS})[m[22;68H137,3[9C70%[38;5;224msearch hit BOTTOM, continuing at TOP[m[22;68H[K[22;68H137,3[9C70%[10;3H[?12l[?25h[?25l[22;70H8,0-1[11;1H[?12l[?25h[?25l[22;1H[1m-- INSERT --[m[22;13H[K[22;68H138,1[9C70%[11;1H[?12l[?25h[?25l[12;21r[12;1H[L[1;22r[11;1H[93madd_executable[m[1m[96m(Position_logger  src/Position_logger.cpp)[m[21;1H[94m@                                                                                    [m[22;68H[K[22;68H139,1[9C69%[12;1H[?12l[?25h[22;1H[K[12;1H[?25l[22;68H139,0-1[7C69%[12;1H[?12l[?25h[?25l[27m[23m[m[H[2J[1;1H[96m## Add cmake target dependencies of the executable
+## same as for the library above
+# add_dependencies(${PROJECT_NAME}_node ${${PROJECT_NAME}_EXPORTED_TARGETS} ${catkin__[4;1HEXPORTED_TARGETS})
+
+## Specify libraries to link a library or executable target against
+# target_link_libraries(${PROJECT_NAME}_node
+#   ${catkin_LIBRARIES}
+# )
+
+#############
+## Install ##
+#############
+
+# all install targets should use catkin DESTINATION variables
+# See http://ros.org/doc/api/catkin/html/adv_user_guide/variables.html
+
+## Mark executable scripts (Python etc.) for installation
+## in contrast to setup.py, you can choose the destination
+# install(PROGRAMS
+#   scripts/my_python_script[m[22;68H146,1[9C79%[1;1H[?12l[?25h[?25l[27m[23m[m[H[2J[1;1H[96m# install(PROGRAMS
+#   scripts/my_python_script
+#   DESTINATION ${CATKIN_PACKAGE_BIN_DESTINATION}
+# )
+
+## Mark executables and/or libraries for installation
+# install(TARGETS ${PROJECT_NAME} ${PROJECT_NAME}_node
+#   ARCHIVE DESTINATION ${CATKIN_PACKAGE_LIB_DESTINATION}
+#   LIBRARY DESTINATION ${CATKIN_PACKAGE_LIB_DESTINATION}
+#   RUNTIME DESTINATION ${CATKIN_PACKAGE_BIN_DESTINATION}
+# )
+
+## Mark cpp header files for installation
+# install(DIRECTORY include/${PROJECT_NAME}/
+#   DESTINATION ${CATKIN_PACKAGE_INCLUDE_DESTINATION}
+#   FILES_MATCHING PATTERN "*.h"
+#   PATTERN ".svn" EXCLUDE
+# )
+
+## Mark other files for installation (e.g. launch and bag files, etc.)
+# install(FILES[m[22;68H164,1[9C90%[1;1H[?12l[?25h[?25l[27m[23m[m[H[2J[1;1H[96m## Mark other files for installation (e.g. launch and bag files, etc.)
+# install(FILES
+#   # myfile1
+#   # myfile2
+#   DESTINATION ${CATKIN_PACKAGE_SHARE_DESTINATION}
+# )
+
+#############
+## Testing ##
+#############
+
+## Add gtest based cpp test target and link libraries
+# catkin_add_gtest(${PROJECT_NAME}-test test/test_reference_saver.cpp)
+# if(TARGET ${PROJECT_NAME}-test)
+#   target_link_libraries(${PROJECT_NAME}-test ${PROJECT_NAME})
+# endif()
+
+## Add folders to be run by python nosetests
+# catkin_add_nosetests(test)[m
+[93mtarget_link_libraries[m[1m[96m(Position_logger [m[38;5;121m${catkin_LIBRARIES}[m[1m[96m)[m
+[94m~                                                                                    [m[22;68H183,1[9CBot[1;1H[?12l[?25h[?25l[27m[23m[m[H[2J[1;1H[93mtarget_link_libraries[m[1m[96m(Position_logger [m[38;5;121m${catkin_LIBRARIES}[m[1m[96m)[m
+[94m~                                                                                    [3;1H~                                                                                    [4;1H~                                                                                    [5;1H~                                                                                    [6;1H~                                                                                    [7;1H~                                                                                    [8;1H~                                                                                    [9;1H~                                                                                    [10;1H~                                                                                    [11;1H~                                                                                    [12;1H~                                                                                    [13;1H~                                                                                    [14;1H~                                                                                    [15;1H~                                                                                    [16;1H~                                                                                    [17;1H~                                                                                    [18;1H~                                                                                    [19;1H~                                                                                    [20;1H~                                                                                    [21;1H~                                                                                    [m[22;68H202,1[9CBot[1;1H[?12l[?25h[?25l[1;21r[1;1H[L[1;22r[1;1H[96m# catkin_add_nosetests(test)[m[22;68H[K[22;68H201,1[9CBot[1;1H[?12l[?25h[?25l[1;21r[1;1H[L[1;22r[1;1H[96m## Add folders to be run by python nosetests[m[22;68H[K[22;68H200,1[9CBot[1;1H[?12l[?25h[?25l[1;21r[1;1H[L[1;22r[22;68H[K[22;68H199,0-1[7CBot[1;1H[?12l[?25h[?25l[1;21r[1;1H[L[1;22r[1;1H[96m# endif()[m[22;68H[K[22;68H198,1[9CBot[1;1H[?12l[?25h[?25l[1;21r[1;1H[L[1;22r[1;1H[96m#   target_link_libraries(${PROJECT_NAME}-test ${PROJECT_NAME})[m[22;68H[K[22;68H197,1[9CBot[1;1H[?12l[?25h[?25l[22;1H[1m-- INSERT --[m[22;68H[K[22;68H197,1[9CBot[1;1H[?12l[?25h[?25l[22;4H[1m^X mode (^]^D^E^F^I^K^L^N^O^Ps^U^V^Y)[m[22;68H[K[1;1H[?12l[?25h[?25l[22;4H[1mINSERTe --^[m[22;13H[K[22;68H197,1[9CBot[22;70H8[2;1H[?12l[?25h[?25l[22;70H9[3;1H[?12l[?25h[?25l[22;68H200[4;1H[?12l[?25h[?25l[22;70H1[5;1H[?12l[?25h[?25l[22;70H2[6;1H[?12l[?25h[?25l[22;72H2[6;2H[?12l[?25h[?25l[22;72H3[6;3H[?12l[?25h[?25l[22;72H4[6;4H[?12l[?25h[?25l[22;72H5[6;5H[?12l[?25h[?25l[22;72H6[6;6H[?12l[?25h[?25l[22;72H7[6;7H[?12l[?25h[?25l[22;72H8[6;8H[?12l[?25h[?25l[22;72H9[6;9H[?12l[?25h[?25l[22;72H10[6;10H[?12l[?25h[?25l[22;73H1[6;11H[?12l[?25h[?25l[22;73H2[6;12H[?12l[?25h[?25l[22;73H3[6;13H[?12l[?25h[?25l[22;73H4[6;14H[?12l[?25h[?25l[22;73H5[6;15H[?12l[?25h[?25l[22;73H6[6;16H[?12l[?25h[?25l[22;73H7[6;17H[?12l[?25h[?25l[22;73H8[6;18H[?12l[?25h[?25l[22;73H9[6;19H[?12l[?25h[?25l[22;72H20[6;20H[?12l[?25h[?25l[22;73H1[6;21H[?12l[?25h[?25l[1C[1m[96m[46m([m[1m[96mPosition_logger [m[38;5;121m$[m[18C[1m[96m[46m)[m[22;73H2[6;22H[?12l[?25h[?25l[22;73H3[6;23H[?12l[?25h[?25l[1m[96m(Position_logger [m[38;5;121m$[m[18C[1m[96m)[m[22;73H4[6;24H[?12l[?25h[?25l[22;73H5[6;25H[?12l[?25h[?25l[22;73H6[6;26H[?12l[?25h[?25l[22;73H7[6;27H[?12l[?25h[?25l[22;73H8[6;28H[?12l[?25h[?25l[22;73H9[6;29H[?12l[?25h[?25l[22;72H30[6;30H[?12l[?25h[?25l[22;73H1[6;31H[?12l[?25h[?25l[22;73H2[6;32H[?12l[?25h[?25l[22;73H3[6;33H[?12l[?25h[?25l[22;73H4[6;34H[?12l[?25h[?25l[22;73H5[6;35H[?12l[?25h[?25l[22;73H6[6;36H[?12l[?25h[?25l[22;73H7[6;37H[?12l[?25h[?25l[22;73H8[6;38H[?12l[?25h[?25l[22;73H9[6;39H[?12l[?25h[?25l[1C[38;5;121m[46m{[16C}[m[22;72H40[6;40H[?12l[?25h[?25l[22;73H1[6;41H[?12l[?25h[?25l[38;5;121m{[16C}[m[22;73H2[6;42H[?12l[?25h[?25l[22;73H3[6;43H[?12l[?25h[?25l[22;73H4[6;44H[?12l[?25h[?25l[22;73H5[6;45H[?12l[?25h[?25l[22;73H6[6;46H[?12l[?25h[?25l[22;73H7[6;47H[?12l[?25h[?25l[22;73H8[6;48H[?12l[?25h[?25l[22;73H9[6;49H[?12l[?25h[?25l[22;72H50[6;50H[?12l[?25h[?25l[22;73H1[6;51H[?12l[?25h[?25l[22;73H2[6;52H[?12l[?25h[?25l[22;73H3[6;53H[?12l[?25h[?25l[22;73H4[6;54H[?12l[?25h[?25l[22;73H5[6;55H[?12l[?25h[?25l[22;73H6[6;56H[?12l[?25h[?25l[6;40H[38;5;121m[46m{[16C}[m[22;73H7[6;57H[?12l[?25h[?25l[6;22H[1m[96m[46m([m[1m[96mPosition_logger [m[38;5;121m${[16C}[m[1m[96m[46m)[m[22;73H8[6;58H[?12l[?25h[?25l[22;73H9[6;59H[?12l[?25h[?25l[6;58H[K[6;22H[1m[96m(Position_logger [m[38;5;121m$[m[38;5;121m[46m{[16C}[m[22;73H8[6;58H[?12l[?25h[?25l[6;39H[1m[96m$[m[1m[96m[46m{[m[1m[96mcatkin_LIBRARIES[m[6;57H[K[6;40H[1m[96m{catkin_LIBRARIES[m[22;73H7[6;57H[?12l[?25h[?25l[6;56H[K[22;73H6[6;56H[?12l[?25h[?25l[6;55H[K[22;73H5[6;55H[?12l[?25h[?25l[6;54H[K[22;73H4[6;54H[?12l[?25h[?25l[6;53H[K[22;73H3[6;53H[?12l[?25h[?25l[6;52H[K[22;73H2[6;52H[?12l[?25h[?25l[6;51H[K[22;73H1[6;51H[?12l[?25h[?25l[6;50H[K[22;73H0[6;50H[?12l[?25h[?25l[6;49H[K[22;72H49[6;49H[?12l[?25h[?25l[6;48H[K[22;73H8[6;48H[?12l[?25h[?25l[6;47H[K[22;73H7[6;47H[?12l[?25h[?25l[6;46H[K[22;73H6[6;46H[?12l[?25h[?25l[6;45H[K[22;73H5[6;45H[?12l[?25h[?25l[6;44H[K[22;73H4[6;44H[?12l[?25h[?25l[6;43H[K[22;73H3[6;43H[?12l[?25h[?25l[6;42H[K[22;73H2[6;42H[?12l[?25h[?25l[6;41H[K[22;73H1[6;41H[?12l[?25h[?25l[6;40H[K[22;73H0[6;40H[?12l[?25h[?25l[6;39H[K[22;72H39[6;39H[?12l[?25h[?25l[6;38H[K[22;73H8[6;38H[?12l[?25h[?25l[6;37H[K[22;73H7[6;37H[?12l[?25h[?25l[6;36H[K[22;73H6[6;36H[?12l[?25h[?25l[6;35H[K[22;73H5[6;35H[?12l[?25h[?25l[6;34H[K[22;73H4[6;34H[?12l[?25h[?25l[6;33H[K[22;73H3[6;33H[?12l[?25h[?25l[6;32H[K[22;73H2[6;32H[?12l[?25h[?25l[6;31H[K[22;73H1[6;31H[?12l[?25h[?25l[6;30H[K[22;73H0[6;30H[?12l[?25h[?25l[6;29H[K[22;72H29[6;29H[?12l[?25h[?25l[6;28H[K[22;73H8[6;28H[?12l[?25h[?25l[6;27H[K[22;73H7[6;27H[?12l[?25h[?25l[6;26H[K[22;73H6[6;26H[?12l[?25h[?25l[6;25H[K[22;73H5[6;25H[?12l[?25h[?25l[6;24H[K[22;73H4[6;24H[?12l[?25h[?25l[6;23H[K[22;73H3[6;23H[?12l[?25h[?25l[6;22H[K[22;73H2[6;22H[?12l[?25h[?25ltarget_link_librarie[6;21H[K[22;73H1[6;21H[?12l[?25h[?25l[6;20H[K[22;73H0[6;20H[?12l[?25h[?25l[6;19H[K[22;72H19[6;19H[?12l[?25h[?25l[6;18H[K[22;73H8[6;18H[?12l[?25h[?25l[6;17H[K[22;73H7[6;17H[?12l[?25h[?25l[6;16H[K[22;73H6[6;16H[?12l[?25h[?25l[6;15H[K[22;73H5[6;15H[?12l[?25h[?25l[6;14H[K[22;73H4[6;14H[?12l[?25h[?25l[6;13H[K[22;73H3[6;13H[?12l[?25h[?25l[6;12H[K[22;73H2[6;12H[?12l[?25h[?25l[6;11H[K[22;73H1[6;11H[?12l[?25h[?25l[6;10H[K[22;73H0[6;10H[?12l[?25h[?25l[6;9H[K[22;72H9 [6;9H[?12l[?25h[?25l[6;8H[K[22;72H8[6;8H[?12l[?25h[?25l[6;7H[K[22;72H7[6;7H[?12l[?25h[?25l[6;6H[K[22;72H6[6;6H[?12l[?25h[?25l[6;5H[K[22;72H5[6;5H[?12l[?25h[?25l[6;4H[K[22;72H4[6;4H[?12l[?25h[?25l[6;3H[K[22;72H3[6;3H[?12l[?25h[?25l[6;2H[K[22;72H2[6;2H[?12l[?25h[?25l[6;1H[K[22;72H1[6;1H[?12l[?25h[?25l[94m~                                                                                    [m[5;23H[96m[46m([4C)[m[22;70H1,29[5;29H[?12l[?25h[22;1H[K[5;28H[?25l[22;68H201,28[8CBot[5;28H[?12l[?25h[?25l[22;68H[K[22;1H:[?12l[?25ht[?25l[?12l[?25ha[?25l[?12l[?25hr[?25l[?12l[?25hg[?25l[?12l[?25he[?25l[?12l[?25ht[?25l[?12l[?25h[?25l[22;7H[K[22;7H[?12l[?25h[?25l[22;6H[K[22;6H[?12l[?25h[?25l[22;5H[K[22;5H[?12l[?25h[?25l[22;4H[K[22;4H[?12l[?25h[?25l[22;3H[K[22;3H[?12l[?25h[?25l[22;2H[K[22;2H[?12l[?25h/[?25l[?12l[?25h[?25l[22;2H[K[22;2H[?12l[?25h [?25l[66C201,28[8CBot[5;28H[?12l

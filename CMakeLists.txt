@@ -135,6 +135,7 @@ include_directories(
 ## With catkin_make all packages are built within a single CMake context
 ## The recommended prefix ensures that target names across packages don't collide
 # add_executable(${PROJECT_NAME}_node src/reference_saver_node.cpp)
+add_executable(Position_logger  src/Position_logger.cpp)
 
 ## Rename C++ executable without prefix
 ## The above recommended prefix causes long target names, the following renames the
@@ -150,6 +151,7 @@ include_directories(
 # target_link_libraries(${PROJECT_NAME}_node
 #   ${catkin_LIBRARIES}
 # )
+target_link_libraries(Position_logger ${catkin_LIBRARIES})
 
 #############
 ## Install ##
@@ -198,5 +200,3 @@ include_directories(
 
 ## Add folders to be run by python nosetests
 # catkin_add_nosetests(test)
-add_executable(Position_logger  src/Position_logger.cpp)
-target_link_libraries(Position_logger ${catkin_LIBRARIES})
