@@ -6,7 +6,7 @@
 
 using namespace std;
 
-char *user = getenv("USER");
+/* char *user = getenv("USER");
 //string user_to_string= 
 std::string str(user);
 string OUTPUTFILENAME{"PostionLogger"};
@@ -44,6 +44,5 @@ int main()
 
     return 0;
     
-}
-    
+} */
    

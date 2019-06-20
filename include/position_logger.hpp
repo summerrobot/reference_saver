@@ -24,10 +24,6 @@ struct Angles {
 };
 
 
-char *user = getenv("USER");
-std::string USER(user);
-string OUTPUTFILENAME{"PostionLogger"};
-
 bool getPosition(std_srvs::Trigger::Response &position_response,
                 std_srvs::Empty::Request &Xbox_button_request);
 

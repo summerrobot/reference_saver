@@ -1,4 +1,4 @@
-#include "position_logger.h"
+#include "position_logger.hpp"
 
 int main(int argc, char **argv)
 {

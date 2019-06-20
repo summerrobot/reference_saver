@@ -1,4 +1,4 @@
-#include "position_logger.h"
+#include "position_logger.hpp"
 
 /* 
 struct Positions {
@@ -9,12 +9,15 @@ struct Positions {
 
 */
 
+char *user = getenv("user");
+std::string USER_STRING(user);
+string OUTPUTFILENAME{"PostionLogger"};
+
 Angles convertQuternionToRollPitchYaw(const tf::StampedTransform &trans)
 {
     Angles rollpitchyaw;
 
-    tf::Quaternion q(trans.getRotation /* pos.pose.orientation.x, pos.pose.orientation.y,pos.pose.orientation.z, 
-                      pos.pose.orientation.w*/);
+    tf::Quaternion q(trans.getRotation());
     tf::Matrix3x3 m(q);
     m.getRPY(rollpitchyaw.roll,rollpitchyaw.pitch,rollpitchyaw.yaw);
     
@@ -32,7 +35,7 @@ void getPositionInputandWriteToFile(const tf::StampedTransform &trans )
 
     // Open file
 
-    std::ofstream file{ "/home/" + USER +  "/Desktop/" + OUTPUTFILENAME + ".yaml" };
+    std::ofstream file{ "/home/" + USER_STRING +  "/Desktop/" + OUTPUTFILENAME + ".yaml" };
 
 
     if(!file)
@@ -44,8 +47,8 @@ void getPositionInputandWriteToFile(const tf::StampedTransform &trans )
     // Write position to file
 
     std::ostringstream sstream;
-    sstream<< trans.getOrigin[0] << " " << trans.getOrigin[1] << " " 
-    << trans.getOrigin[2] <<" "<< rollpitchYaw.yaw;
+    sstream<< trans.getOrigin().getX() << " " << trans.getOrigin().getY() << " " 
+    << trans.getOrigin().getZ() <<" "<< rollpitchYaw.yaw;
 
     string getValues{sstream.str()};
 
