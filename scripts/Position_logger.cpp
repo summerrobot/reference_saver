@@ -67,11 +67,15 @@ bool getPosition(std_srvs::Trigger::Response &position_response,
       //TODO: Put in correct frames 
       listener.lookupTransform("map", "base_link",
                                ros::Time(0), transform);
-      getPositionInputandWriteToFile(transform);    
+      getPositionInputandWriteToFile(transform);
+      position_response.message = "Success: Pose stored to file";
+      position_response.success = true;    
     }
     catch (tf::TransformException &ex) {
       ROS_ERROR("%s",ex.what());
       ros::Duration(1.0).sleep();
+      position_response.message = "Fault: Pose not stored to file";
+      position_response.success = false;
     }
 
 
