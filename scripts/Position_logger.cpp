@@ -44,7 +44,7 @@ void getPositionInputandWriteToFile(const tf::StampedTransform &trans )
 
     // Open file
 
-    std::ofstream file{ "/home/" + USER_STRING +  "/Desktop/" + OUTPUTFILENAME + ".yaml" };
+    std::ofstream file{ "/home/" + USER_STRING +  "/Desktop/" + OUTPUTFILENAME + ".yaml",std::ios_base::app};
 
 
     if(!file)
@@ -57,7 +57,7 @@ void getPositionInputandWriteToFile(const tf::StampedTransform &trans )
 
     std::ostringstream sstream;
     sstream<< trans.getOrigin().getX() << " " << trans.getOrigin().getY() << " " 
-    << trans.getOrigin().getZ() <<" "<< rollpitchYaw.yaw;
+    << trans.getOrigin().getZ() <<" "<< rollpitchYaw.yaw<<endl;
 
     string getValues{sstream.str()};
 
@@ -66,22 +66,20 @@ void getPositionInputandWriteToFile(const tf::StampedTransform &trans )
 }
 
 
-bool getPosition(std_srvs::Trigger::Response &position_response,
-                std_srvs::Trigger::Request &Xbox_button_request)
+bool getPosition(std_srvs::Trigger::Request &xbox_button_request,
+    std_srvs::Trigger::Response &position_response)
 {
 
-    /* 
- 
     geometry_msgs::PoseStamped pose;
 
     tf::TransformListener listener;
-    ros::Rate rate(10.0);
-    while(true){
-            tf::StampedTransform transform;
-            try{ 
-      listener.lookupTransform("map", "base_link",
+    tf::StampedTransform transform;
+            
+    try{ 
+      listener.waitForTransform("odom","base_link",ros::Time(0),ros::Duration(3));
+      listener.lookupTransform("odom", "base_link",
                                ros::Time(0), transform);
-            //getPositionInputandWriteToFile(transform);
+            getPositionInputandWriteToFile(transform);
             position_response.message = "Success: Pose stored to file";
             position_response.success = true; 
             return true;   
@@ -91,10 +89,7 @@ bool getPosition(std_srvs::Trigger::Response &position_response,
             ros::Duration(1.0).sleep();
             position_response.message = "Fault: Pose not stored to file";
             position_response.success = false;
-            continue;
-            return false;
-        }
-        rate.sleep();   
+            return false;   
     }
 
 }

@@ -15,6 +15,8 @@
 #include <tf/transform_datatypes.h>
 
 
+
+
 using namespace std;
 
 struct Angles {
@@ -24,8 +26,8 @@ struct Angles {
 };
 
 
-bool getPosition(std_srvs::Trigger::Response &position_response,
-                std_srvs::Trigger::Request &Xbox_button_request);
+bool getPosition(std_srvs::Trigger::Request &xbox_button_request,
+    std_srvs::Trigger::Response &position_response);
 
 void getPositionInputandWriteToFile(const geometry_msgs::PoseStamped &pos );
 Angles convertQuternionToRollPitchYaw(const geometry_msgs::PoseStamped &pos);
