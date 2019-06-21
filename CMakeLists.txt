@@ -62,7 +62,7 @@ find_package(catkin REQUIRED COMPONENTS
 ## Generate services in the 'srv' folder
 # add_service_files(
 #   FILES
-#   Service1.srv
+#   srv_file.srv
 #   Service2.srv
 # )
 
@@ -114,8 +114,9 @@ generate_messages(
 catkin_package(
   INCLUDE_DIRS include 
 #  LIBRARIES reference_saver
-  CATKIN_DEPENDS roscpp rospy std_msgs tf geometry_srvs std_srvs
-  DEPENDS system_lib
+  CATKIN_DEPENDS roscpp rospy std_msgs tf geometry_msgs std_srvs
+#  DEPENDS system_lib
+
 )
 
 ###########
@@ -125,7 +126,7 @@ catkin_package(
 ## Specify additional locations of header files
 ## Your package locations should be listed before other locations
 include_directories(
-# include
+  include
   ${catkin_INCLUDE_DIRS}
 )
 
