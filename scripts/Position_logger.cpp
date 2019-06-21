@@ -97,18 +97,6 @@ bool getPosition(std_srvs::Trigger::Response &position_response,
         rate.sleep();   
     }
 
-    */
-=======
-    catch (tf::TransformException &ex) {
-      ROS_ERROR("%s",ex.what());
-      ros::Duration(1.0).sleep();
-      position_response.message = "Fault: Pose not stored to file";
-      position_response.success = false;
-      continue;
-    }
-
-    }
-
 }
 
 
