@@ -70,24 +70,36 @@ bool getPosition(std_srvs::Trigger::Response &position_response,
                 std_srvs::Trigger::Request &Xbox_button_request)
 {
 
+    /* 
+ 
     geometry_msgs::PoseStamped pose;
 
     tf::TransformListener listener;
-    tf::StampedTransform transform;
-
-    try{ 
-      listener.lookupTransform("map", "base_link",
+    ros::Rate rate(10.0);
+    while (true)
+    {
+        tf::StampedTransform transform;
+        try{
+      //TODO: Put in correct frames 
+            listener.lookupTransform("map", "base_link",
                                ros::Time(0), transform);
-      getPositionInputandWriteToFile(transform);
-      position_response.message = "Success: Pose stored to file";
-      position_response.success = true;    
+            //getPositionInputandWriteToFile(transform);
+            position_response.message = "Success: Pose stored to file";
+            position_response.success = true; 
+            return true;   
     }
-    catch (tf::TransformException &ex) {
-      ROS_ERROR("%s",ex.what());
-      ros::Duration(1.0).sleep();
-      position_response.message = "Fault: Pose not stored to file";
-      position_response.success = false;
+        catch (tf::TransformException &ex) {
+            ROS_ERROR("%s",ex.what());
+            ros::Duration(1.0).sleep();
+            position_response.message = "Fault: Pose not stored to file";
+            position_response.success = false;
+            continue;
+            return false;
+        }
+        rate.sleep();   
     }
+
+    */
 }
 
 
