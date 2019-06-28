@@ -10,7 +10,7 @@ struct Positions {
 */
 
 
-string OUTPUTFILENAME{"PostionLogger"};
+string OUTPUTFILENAME{"PositionLogger"};
 
 
 Angles convertQuternionToRollPitchYaw(const tf::StampedTransform &trans)
